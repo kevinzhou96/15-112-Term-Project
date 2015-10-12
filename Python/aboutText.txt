@@ -1,0 +1,5 @@
+Mappy: a force-based graph data visualization tool.
+
+Mappy is a data visualization tool that utilizes a physics engine in order to help visualize pattern in data where the data can be represented as nodes and edges on a graph. Going beyond the basic node-edge model of a graph, however, Mappy allows for variable node size and edge thickness. Mappy models data by thinking of each node as an electron, and each edge as a spring. The nodes (electrons) all repel each other (and the walls so that they don't fly off into the distance), but the edges (springs) pull on the nodes they are connected to, which brings related nodes together and pushes unrelated nodes apart. 
+
+Mappy was developed by Kevin Zhou for his 15-112 Term Project for the Spring 2015 semester.

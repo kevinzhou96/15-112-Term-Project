@@ -1,0 +1,23 @@
+The buttons on the bottom-left provide some tools for editing the data. Functionalities are listed below:
+
+Add Node: add a new node
+Add Edge By Name: add an edge by specifying two nodes
+Edit Edge: edit an edge's properties, found by specifying two nodes
+Delete Edge: delete an edge, found by specifying two nodes
+
+The buttons in the top controls area provide some general data manipulation. Functionalities are listed below:
+
+Export Data: save the current dataset to a file
+Import Data: open a new dataset from a file
+Clear Data: reset all data (with confirmation)
+
+The context menu can be brought up by right-clicking on a node, or by right-clicking on the listing in the data area on the left. Functionalities are listed below:
+
+Delete Node: delete the node (with confirmation)
+Edit Node: edit the node's properties
+Add Edge By Name: add an edge to another node by specifying a name
+Add Edge: add an edge by clicking on the other node
+Delete Edge: delete the edge to another node by specifying a name
+
+
+If the visualization jitters too much, you can press ctrl+p (cmd+p on Mac) to pause the animation, and ctrl+g (cmd+g on Mac) to resume the animation.

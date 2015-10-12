@@ -1,0 +1,5 @@
+TP User Study-a-thon feedback
+
+- make the UI a little nicer looking
+- include instructions (it's a little confusing)
+- implement a way to display the data values on each node (e.g. force)
